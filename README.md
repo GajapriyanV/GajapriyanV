@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gajapriyan.v@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JBqn4ivQkHdQMTKvh2TFADv0uJEGRImVcELlwnAuv2c/edit?usp=sharing](https://docs.google.com/document/d/1JBqn4ivQkHdQMTKvh2TFADv0uJEGRImVcELlwnAuv2c/edit?usp=sharing)
+- 📄 Know about my experiences [)
 
 - ⚡ Fun fact **I am from Tamil Eelam 🐅**
 
