@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [Website Coming](Website Coming)
+- 👨‍💻 All of my projects are available at [gajapriyan.me]
 
 - 💬 Ask me about **Fullstack Development, Backend Development, Data Science and anything tech related**
 
