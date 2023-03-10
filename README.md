@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://linkedin.com/in/gajapriyan vigneswaran"/>
+- 👨‍💻 All of my projects are available at <a My Website href="https://www.gajapriyan.me/"</a>
 
 - 💬 Ask me about **Fullstack Development, Backend Development, Data Science and anything tech related**
 
