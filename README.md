@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **University / Personal Projects**
 
-- 🤝 I'm looking for **Summer 2023 Internship**
+- 🤝 I'm looking for **Summer 2024 Internship**
 
-- 🌱 I’m currently learning **NextJS and GraphQL**
+- 🌱 I’m currently learning **Ruby**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
