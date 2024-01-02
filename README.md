@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gajapriyan Vigneswarn</h1>
+<h1 align="center">Hi 👋, I'm Gajapriyan Vigneswaran</h1>
 <h3 align="center">A passionate software developer, adept in front and back-end technologies and frameworks</h3>
 
 - 🔭 I’m currently working on **University / Personal Projects**
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Fullstack Development, Backend Development, Data Science and anything tech related**
 
 - 📫 How to reach me **gajapriyan.v@gmail.com**
-
-- 📄 Know about my experiences [)
 
 - ⚡ Fun fact **I am from Tamil Eelam 🐅**
 
