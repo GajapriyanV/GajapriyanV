@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **University / Personal Projects**
 
-- 🤝 I'm looking for **Summer 2025 Internship**
+- 🤝 I'm looking for **Summer 2026 Internship**
 
 - 🌱 I’m currently learning **CISCO CCNA**
 
